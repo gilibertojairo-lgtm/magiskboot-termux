@@ -1,0 +1,3 @@
+Repo: Termux MagiskBoot Repo
+Maintainer: Jairo <gilibertojairo@gmail.com>
+Description: Repo con paquete arm64 MagiskBoot para Termux
