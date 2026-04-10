@@ -1,0 +1,12 @@
+Package: magiskboot
+Version: 1.0
+Architecture: all
+Maintainer: Jairo <gilibertojairo@gmail.com>
+Depends: bash
+Filename: ./magiskboot_1.0_all.deb
+Size: 392340
+MD5sum: 01718df4c76fe30d198be25ed86fdf07
+SHA1: e36e025fa288f660f45e0dc1cdf3cb673cd2ddaf
+SHA256: f0b01e3f5842101158e3b49b85d37f5a28712c744bc6fb83b2db62a685453f12
+Description: Paquete magiskboot para Termux
+
